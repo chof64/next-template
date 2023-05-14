@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "formulahendry.auto-close-tag",
+    "dsznajder.es7-react-js-snippets",
+    "visualstudioexptteam.vscodeintellicode",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode"
+  ]
+}
